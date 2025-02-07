@@ -14,3 +14,4 @@ def solution(array):
 
 # 모범답안?
 # return [max(array), array.index(max(array))]
+
