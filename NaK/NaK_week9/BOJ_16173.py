@@ -1,3 +1,5 @@
+# 점프왕 쩰리(Small)
+
 import sys
 
 def dfs(x,y):
