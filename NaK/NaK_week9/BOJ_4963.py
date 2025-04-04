@@ -1,3 +1,5 @@
+# 섬의 개수
+
 import sys
 read = sys.stdin.readline
 sys.setrecursionlimit(10000) # 무한 재귀호출 방지
